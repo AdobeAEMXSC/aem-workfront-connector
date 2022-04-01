@@ -19,12 +19,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.headwire.site</groupId>
-    <artifactId>headwire</artifactId>
+    <groupId>com.headwire.workfront</groupId>
+    <artifactId>workfront</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0-SNAPSHOT</version>
-    <name>headwire-site</name>
-    <description>headwire-site</description>
+    <name>workfront-connector</name>
+    <description>workfront-connector</description>
 
     <modules>
         <module>ui.apps.structure</module>
@@ -48,7 +48,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <aem.sdk.api>2022.3.6698.20220318T233218Z-220100</aem.sdk.api>
         <aemanalyser.version>1.4.2</aemanalyser.version>
-        <componentGroupName>headwire-site</componentGroupName>
+        <componentGroupName>workfront-connector</componentGroupName>
     </properties>
 
     <build>
