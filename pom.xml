@@ -28,7 +28,7 @@
 
     <modules>
         <module>ui.apps.structure</module>
-        <module>ui.apps</module>
+        <module>all</module>
     </modules>
 
     <properties>
